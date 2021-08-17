@@ -60,6 +60,7 @@
             this.btn = new System.Windows.Forms.Button();
             this.label12 = new System.Windows.Forms.Label();
             this.md2 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // n1
@@ -264,9 +265,9 @@
             this.md.AutoSize = true;
             this.md.Location = new System.Drawing.Point(628, 222);
             this.md.Name = "md";
-            this.md.Size = new System.Drawing.Size(19, 13);
+            this.md.Size = new System.Drawing.Size(13, 13);
             this.md.TabIndex = 24;
-            this.md.Text = "00";
+            this.md.Text = "0";
             // 
             // label13
             // 
@@ -282,9 +283,9 @@
             this.maxi.AutoSize = true;
             this.maxi.Location = new System.Drawing.Point(628, 269);
             this.maxi.Name = "maxi";
-            this.maxi.Size = new System.Drawing.Size(19, 13);
+            this.maxi.Size = new System.Drawing.Size(13, 13);
             this.maxi.TabIndex = 26;
-            this.maxi.Text = "00";
+            this.maxi.Text = "0";
             // 
             // label15
             // 
@@ -300,9 +301,9 @@
             this.mini.AutoSize = true;
             this.mini.Location = new System.Drawing.Point(628, 309);
             this.mini.Name = "mini";
-            this.mini.Size = new System.Drawing.Size(19, 13);
+            this.mini.Size = new System.Drawing.Size(13, 13);
             this.mini.TabIndex = 28;
-            this.mini.Text = "00";
+            this.mini.Text = "0";
             // 
             // btn
             // 
@@ -332,11 +333,21 @@
             this.md2.TabIndex = 31;
             this.md2.Text = "00";
             // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(519, 25);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(103, 13);
+            this.label14.TabIndex = 32;
+            this.label14.Text = "Numeros ingresados";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(679, 426);
+            this.Controls.Add(this.label14);
             this.Controls.Add(this.md2);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.btn);
@@ -410,6 +421,7 @@
         private System.Windows.Forms.Button btn;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label md2;
+        private System.Windows.Forms.Label label14;
     }
 }
 

@@ -17,7 +17,7 @@ namespace Ejercicio1new
 
        
 
-        private Decimal suma = 0, media=0, suma1 = 0, media1 = 0;
+        private Decimal suma = 0, media=0;
         public Form1()
         {
             InitializeComponent();
@@ -64,6 +64,7 @@ namespace Ejercicio1new
         }
         private void btn1_Click(object sender, EventArgs e)
         {
+            int tama=0;
             var numeros = listBox1.Items.Cast<object>().Select(obj => Convert.ToInt32(obj));
             int min = numeros.Min();
             int max = numeros.Max();
@@ -73,8 +74,14 @@ namespace Ejercicio1new
             {
                 if(lista[i] > 0)
                 {
-                    suma += lista[i];
-                    media = suma / lista[i];
+                    int[] tamaño = new int[lista[i]];
+                    for (int j=0; j != (tamaño.Length); j++)
+                    {
+                        tama = tamaño.Length;
+                        suma += lista[i];
+                        media = suma / tama;
+                    }
+                    
                 }
                 else
                 {
