@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\bin\Debug\Ejercicio1new.exe.config
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\bin\Debug\Ejercicio1new.exe
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\bin\Debug\Ejercicio1new.pdb
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.csprojAssemblyReference.cache
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.Form1.resources
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.Properties.Resources.resources
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.exe
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1new\Ejercicio1new\obj\Debug\Ejercicio1new.pdb
