@@ -31,6 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.numeros = new System.Windows.Forms.TextBox();
             this.btn1 = new System.Windows.Forms.Button();
+            this.list = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // label1
@@ -62,11 +63,20 @@
             this.btn1.UseVisualStyleBackColor = true;
             this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
+            // list
+            // 
+            this.list.FormattingEnabled = true;
+            this.list.Location = new System.Drawing.Point(102, 243);
+            this.list.Name = "list";
+            this.list.Size = new System.Drawing.Size(247, 173);
+            this.list.TabIndex = 3;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(437, 450);
+            this.Controls.Add(this.list);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.numeros);
             this.Controls.Add(this.label1);
@@ -83,6 +93,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox numeros;
         private System.Windows.Forms.Button btn1;
+        private System.Windows.Forms.ListBox list;
     }
 }
 
