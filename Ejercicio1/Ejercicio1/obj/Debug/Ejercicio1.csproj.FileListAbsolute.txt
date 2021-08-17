@@ -8,3 +8,13 @@ C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercic
 C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

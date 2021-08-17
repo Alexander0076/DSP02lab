@@ -30,7 +30,7 @@ namespace Ejercicio1
 
             for (int i=0; i!=(lista.Length); i++)
             {
-                lista[i] = i + 1;
+                lista[i] = Convert.ToInt32(numeros.Text);
                 list.Items.Add(lista[i]);
 
             }
