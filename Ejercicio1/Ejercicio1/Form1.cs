@@ -12,6 +12,8 @@ namespace Ejercicio1
 {
     public partial class Form1 : Form
     {
+        private int[] lista = new int[10];
+        private double num=0;
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +26,15 @@ namespace Ejercicio1
 
         private void btn1_Click(object sender, EventArgs e)
         {
+            list.Items.Clear();
 
+            for (int i=0; i!=(lista.Length); i++)
+            {
+                lista[i] = i + 1;
+                list.Items.Add(lista[i]);
+
+            }
+            
         }
     }
 }
