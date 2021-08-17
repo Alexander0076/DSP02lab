@@ -32,35 +32,34 @@
             this.numeros = new System.Windows.Forms.TextBox();
             this.btn1 = new System.Windows.Forms.Button();
             this.list = new System.Windows.Forms.ListBox();
+            this.btn3 = new System.Windows.Forms.Button();
+            this.btn2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(224, 75);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(168, 61);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(107, 17);
+            this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ingrese numero";
             // 
             // numeros
             // 
             this.numeros.AccessibleName = "";
-            this.numeros.Location = new System.Drawing.Point(136, 117);
-            this.numeros.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.numeros.Location = new System.Drawing.Point(102, 95);
             this.numeros.Multiline = true;
             this.numeros.Name = "numeros";
-            this.numeros.Size = new System.Drawing.Size(291, 36);
+            this.numeros.Size = new System.Drawing.Size(219, 30);
             this.numeros.TabIndex = 1;
             // 
             // btn1
             // 
             this.btn1.AccessibleName = "";
-            this.btn1.Location = new System.Drawing.Point(231, 177);
-            this.btn1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn1.Location = new System.Drawing.Point(173, 144);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(100, 28);
+            this.btn1.Size = new System.Drawing.Size(75, 23);
             this.btn1.TabIndex = 2;
             this.btn1.Text = "Ingresar";
             this.btn1.UseVisualStyleBackColor = true;
@@ -69,23 +68,42 @@
             // list
             // 
             this.list.FormattingEnabled = true;
-            this.list.ItemHeight = 16;
-            this.list.Location = new System.Drawing.Point(136, 299);
-            this.list.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.list.Location = new System.Drawing.Point(102, 243);
             this.list.Name = "list";
-            this.list.Size = new System.Drawing.Size(328, 212);
+            this.list.Size = new System.Drawing.Size(247, 173);
             this.list.TabIndex = 3;
+            // 
+            // btn3
+            // 
+            this.btn3.Location = new System.Drawing.Point(159, 214);
+            this.btn3.Name = "btn3";
+            this.btn3.Size = new System.Drawing.Size(117, 23);
+            this.btn3.TabIndex = 4;
+            this.btn3.Text = "Calcular media";
+            this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.Click += new System.EventHandler(this.btn3_Click);
+            // 
+            // btn2
+            // 
+            this.btn2.Location = new System.Drawing.Point(132, 185);
+            this.btn2.Name = "btn2";
+            this.btn2.Size = new System.Drawing.Size(176, 23);
+            this.btn2.TabIndex = 5;
+            this.btn2.Text = "Mostrar numero mayor y menor ";
+            this.btn2.UseVisualStyleBackColor = true;
+            this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(583, 554);
+            this.ClientSize = new System.Drawing.Size(437, 450);
+            this.Controls.Add(this.btn2);
+            this.Controls.Add(this.btn3);
             this.Controls.Add(this.list);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.numeros);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -100,6 +118,8 @@
         private System.Windows.Forms.TextBox numeros;
         private System.Windows.Forms.Button btn1;
         private System.Windows.Forms.ListBox list;
+        private System.Windows.Forms.Button btn3;
+        private System.Windows.Forms.Button btn2;
     }
 }
 
