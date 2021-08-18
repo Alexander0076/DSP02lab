@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\bin\Debug\Ejercicio4 Guia 2.exe.config
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\bin\Debug\Ejercicio4 Guia 2.exe
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\bin\Debug\Ejercicio4 Guia 2.pdb
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4 Guia 2.csprojAssemblyReference.cache
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4_Guia_2.Form1.resources
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4_Guia_2.Properties.Resources.resources
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4 Guia 2.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4 Guia 2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4 Guia 2.exe
+C:\Users\MINEDUCYT\Source\Repos\DSP02lab\Ejercicio4 Guia 2\Ejercicio4 Guia 2\obj\Debug\Ejercicio4 Guia 2.pdb

@@ -25,7 +25,7 @@ namespace Ejercicio3
         private void ingresar_Click(object sender, EventArgs e)
         {
             lista.Add(numeros.Text);
-            //numeros.Text = String.Empty;
+            numeros.Text = String.Empty;
             
         }
 
