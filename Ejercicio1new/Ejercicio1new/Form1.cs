@@ -17,7 +17,7 @@ namespace Ejercicio1new
 
        
 
-        private Decimal suma = 0, media=0;
+        private Decimal suma = 0, media=0, suma1 = 0, media1 = 0;
         public Form1()
         {
             InitializeComponent();
@@ -64,42 +64,39 @@ namespace Ejercicio1new
         }
         private void btn1_Click(object sender, EventArgs e)
         {
-            int tama=0;
             var numeros = listBox1.Items.Cast<object>().Select(obj => Convert.ToInt32(obj));
             int min = numeros.Min();
             int max = numeros.Max();
             mini.Text =  min.ToString();
             maxi.Text = max.ToString();
-            for (int i = 0; i != (lista.Length); i++)
+            int list = 0;
+            for (int i = 0; i < listBox1.Items.Count; i++)
             {
-                if(lista[i] > 0)
+                list = Convert.ToInt32(listBox1.Items[i]);
+                if (list > 0)
                 {
-                    int[] tamaño = new int[lista[i]];
-                    for (int j=0; j != (tamaño.Length); j++)
-                    {
-                        tama = tamaño.Length;
-                        suma += lista[i];
-                        media = suma / tama;
-                    }
-                    
+                    suma1 += Convert.ToInt32(listBox1.Items[i]);
+
                 }
                 else
                 {
-                    media = 0;
+                    media1 = 0;
                 }
 
             }
-            md2.Text = media.ToString();
+            media1 = suma1 / listBox1.Items.Count;
+            md2.Text = media1.ToString();
 
         }
         private void btn2_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i != (lista.Length); i++)
+            for (int i = 0; i < listBox1.Items.Count; i++)
             {
-                suma += lista[i];
-                media = suma / lista[i];
+                suma += Convert.ToInt32(listBox1.Items[i]);
+                
 
             }
+            media = suma / listBox1.Items.Count;
             md.Text = media.ToString();
         }
     }

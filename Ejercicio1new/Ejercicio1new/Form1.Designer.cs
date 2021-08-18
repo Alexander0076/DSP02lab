@@ -329,9 +329,9 @@
             this.md2.AutoSize = true;
             this.md2.Location = new System.Drawing.Point(628, 386);
             this.md2.Name = "md2";
-            this.md2.Size = new System.Drawing.Size(19, 13);
+            this.md2.Size = new System.Drawing.Size(13, 13);
             this.md2.TabIndex = 31;
-            this.md2.Text = "00";
+            this.md2.Text = "0";
             // 
             // label14
             // 
