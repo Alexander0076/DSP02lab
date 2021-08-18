@@ -1,0 +1,10 @@
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\bin\Debug\Ejercicio2_guia2.exe.config
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\bin\Debug\Ejercicio2_guia2.exe
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\bin\Debug\Ejercicio2_guia2.pdb
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.Form1.resources
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.Properties.Resources.resources
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.csproj.GenerateResource.cache
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.csproj.CoreCompileInputs.cache
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.exe
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.pdb
+C:\Users\herna\Source\Repos\DSP02lab\Ejercicio2_guia2\Ejercicio2_guia2\obj\Debug\Ejercicio2_guia2.csprojAssemblyReference.cache

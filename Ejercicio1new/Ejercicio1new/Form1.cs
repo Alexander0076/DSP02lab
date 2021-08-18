@@ -15,7 +15,10 @@ namespace Ejercicio1new
         private int[] lista = new int[10];
         private int num1=0, num2 = 0, num3 = 0, num4 = 0, num5 = 0, num6 = 0, num7 = 0, num8 = 0, num9 = 0, num10 = 0;
 
-       
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
 
         private Decimal suma = 0, media=0, suma1 = 0, media1 = 0;
         public Form1()
